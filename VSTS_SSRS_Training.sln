@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "VSTS_SSRS_Training", "VSTS_SSRS_Training\VSTS_SSRS_Training.rptproj", "{2C1E8F71-E010-42DF-8D58-2AF850E6112D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1E8F71-E010-42DF-8D58-2AF850E6112D}.Debug|Default.ActiveCfg = Debug
+		{2C1E8F71-E010-42DF-8D58-2AF850E6112D}.Debug|Default.Build.0 = Debug
+		{2C1E8F71-E010-42DF-8D58-2AF850E6112D}.Debug|Default.Deploy.0 = Debug
+		{2C1E8F71-E010-42DF-8D58-2AF850E6112D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2C1E8F71-E010-42DF-8D58-2AF850E6112D}.DebugLocal|Default.Build.0 = DebugLocal
+		{2C1E8F71-E010-42DF-8D58-2AF850E6112D}.Release|Default.ActiveCfg = Release
+		{2C1E8F71-E010-42DF-8D58-2AF850E6112D}.Release|Default.Build.0 = Release
+		{2C1E8F71-E010-42DF-8D58-2AF850E6112D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
