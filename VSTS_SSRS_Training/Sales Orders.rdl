@@ -946,7 +946,9 @@ HAVING        (ppc.Name = 'Clothing')</CommandText>
           </Textbox>
         </ReportItems>
         <Height>2in</Height>
-        <Style />
+        <Style>
+          <BackgroundColor>PaleGoldenrod</BackgroundColor>
+        </Style>
       </Body>
       <Width>9.29476in</Width>
       <Page>
