@@ -918,6 +918,7 @@ HAVING        (ppc.Name = 'Clothing')</CommandText>
                   <TextRun>
                     <Value>Adventure Works - Sales Orders Report</Value>
                     <Style>
+                      <FontSize>14pt</FontSize>
                       <FontWeight>Bold</FontWeight>
                     </Style>
                   </TextRun>
@@ -930,8 +931,8 @@ HAVING        (ppc.Name = 'Clothing')</CommandText>
             <rd:DefaultName>Textbox1</rd:DefaultName>
             <Top>0.47307cm</Top>
             <Left>3.06599cm</Left>
-            <Height>0.6cm</Height>
-            <Width>11.83979cm</Width>
+            <Height>0.70583cm</Height>
+            <Width>12.10438cm</Width>
             <ZIndex>1</ZIndex>
             <Style>
               <Border>
